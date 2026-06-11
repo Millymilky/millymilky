@@ -1,1 +1,1 @@
-![Main Dashboard](https://pin.it/tOSMK551S.png)
+![Main Dashboard](image/file.png)
