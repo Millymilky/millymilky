@@ -1,1 +1,1 @@
-![Main Dashboard](image/file.png)
+${\textsf{\color{#cbd8dc} test Mhm . }}$
