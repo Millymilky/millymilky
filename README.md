@@ -1,1 +1,1 @@
-![Main Dashboard](images/screenshot.png)
+![Main Dashboard](https://pin.it/tOSMK551S.png)
